@@ -1,2 +1,2 @@
-# bdmcicd
-GIT-BDM REST client for Informatica BDM CI/CD
+# deicicd
+GIT-DEI REST client for Informatica Data Engineering Integration CI/CD
